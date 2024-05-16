@@ -1,0 +1,14 @@
+{"obj": {"type": "AssignString", "path": ["sys", "name"], "value": "Untitled"}, "version": 1, "at": 1715842309.944464}
+{"obj": {"type": "AssignString", "path": ["sys", "description"], "value": ""}, "version": 2, "at": 1715842309.9454644}
+{"obj": {"type": "AssignString", "path": ["monitoring", "accc7d37", "hostname"], "value": "DESKTOP-SO4DDQB"}, "version": 3, "at": 1715842309.9454644}
+{"obj": {"type": "AssignString", "path": ["sys", "hostname"], "value": "DESKTOP-SO4DDQB"}, "version": 4, "at": 1715842309.9454644}
+{"obj": {"type": "AssignString", "path": ["monitoring", "accc7d37", "pid"], "value": "21612"}, "version": 5, "at": 1715842309.9454644}
+{"obj": {"type": "AssignString", "path": ["monitoring", "accc7d37", "tid"], "value": "1992"}, "version": 6, "at": 1715842309.9454644}
+{"obj": {"type": "AssignBool", "path": ["sys", "failed"], "value": false}, "version": 7, "at": 1715842309.9454644}
+{"obj": {"type": "LogFloats", "path": ["Loss (Train)"], "values": [{"value": 1.6721245050430298, "step": null, "ts": 1715842310.8278651}]}, "version": 8, "at": 1715842310.8278651}
+{"obj": {"type": "LogFloats", "path": ["Gradient norm"], "values": [{"value": 3.8847947274679395, "step": null, "ts": 1715842310.8428764}]}, "version": 9, "at": 1715842310.8428764}
+{"obj": {"type": "LogFloats", "path": ["Loss (Test)"], "values": [{"value": 1.6174849073092143, "step": null, "ts": 1715842319.39167}]}, "version": 10, "at": 1715842319.39167}
+{"obj": {"type": "LogFloats", "path": ["Accuracy"], "values": [{"value": 0.2616477272727273, "step": null, "ts": 1715842319.39167}]}, "version": 11, "at": 1715842319.39167}
+{"obj": {"type": "LogFloats", "path": ["F1-Score"], "values": [{"value": 0.10127163204809556, "step": null, "ts": 1715842319.39167}]}, "version": 12, "at": 1715842319.39167}
+{"obj": {"type": "LogFloats", "path": ["Loss (Train)"], "values": [{"value": 1.6546695232391357, "step": null, "ts": 1715842320.267897}]}, "version": 13, "at": 1715842320.267897}
+{"obj": {"type": "LogFloats", "path": ["Gradient norm"], "values": [{"value": 4.982879652186579, "step": null, "ts": 1715842320.2768927}]}, "version": 14, "at": 1715842320.2768927}

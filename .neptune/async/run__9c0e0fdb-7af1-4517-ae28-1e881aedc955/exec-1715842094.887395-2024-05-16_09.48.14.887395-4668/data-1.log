@@ -1,0 +1,9 @@
+{"obj": {"type": "AssignString", "path": ["sys", "name"], "value": "Untitled"}, "version": 1, "at": 1715842094.955419}
+{"obj": {"type": "AssignString", "path": ["sys", "description"], "value": ""}, "version": 2, "at": 1715842094.955419}
+{"obj": {"type": "AssignString", "path": ["monitoring", "69eab88b", "hostname"], "value": "DESKTOP-SO4DDQB"}, "version": 3, "at": 1715842094.955419}
+{"obj": {"type": "AssignString", "path": ["sys", "hostname"], "value": "DESKTOP-SO4DDQB"}, "version": 4, "at": 1715842094.955419}
+{"obj": {"type": "AssignString", "path": ["monitoring", "69eab88b", "pid"], "value": "4668"}, "version": 5, "at": 1715842094.955419}
+{"obj": {"type": "AssignString", "path": ["monitoring", "69eab88b", "tid"], "value": "15768"}, "version": 6, "at": 1715842094.955419}
+{"obj": {"type": "AssignBool", "path": ["sys", "failed"], "value": false}, "version": 7, "at": 1715842094.955419}
+{"obj": {"type": "LogFloats", "path": ["Loss (Train)"], "values": [{"value": 1.6372977495193481, "step": null, "ts": 1715842095.8491924}]}, "version": 8, "at": 1715842095.8491924}
+{"obj": {"type": "LogFloats", "path": ["Gradient norm"], "values": [{"value": 3.9474184808718147, "step": null, "ts": 1715842095.8641942}]}, "version": 9, "at": 1715842095.8641942}

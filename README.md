@@ -62,3 +62,25 @@ The threshold for **gradient clipping** was 40.
 
 ## Training results
 
+Now let's take a look on metrics on test dataset. 
+
+### Accuracy
+
+![image](https://github.com/IOBananaOI/BERT-Tweet-Sentiment-Classification/assets/56229061/5614533e-06b0-4f0c-8437-f49e300d2f67)
+
+As we can see, the best performance has showed custom bert with data preparation and gradient clipping. It's graph is also stable.
+The worst results has simple BertForSeqeuenceClassification from Transformers library.
+
+### F1-Score
+
+![image](https://github.com/IOBananaOI/BERT-Tweet-Sentiment-Classification/assets/56229061/e628a628-46fe-4727-b859-3d844e2fe828)
+
+As for f1-score text preparation didn't affect significantly, on the contrary the best results shows simple BertForSeqeuenceClassification from Hugging Face.
+
+### Results analysis
+
+According to given results, we can allege, that in general gradient clipping has enhanced both metrics. 
+
+For text preparation we can see, that it works only for Transformers' BertForSeqeuenceClassification model, but not for the custom one.
+
+In general, as for models' comparison, the custom one worked better, though in f1 metric the opposite has shown better result.
